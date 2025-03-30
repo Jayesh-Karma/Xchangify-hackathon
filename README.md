@@ -3,7 +3,7 @@
 ## 🚀 Overview
 Xchangify is a skill-exchange platform where users can collaborate and exchange expertise. Whether you're a developer, designer, marketer, or any other professional, Xchangify provides a space to barter skills, work on real-world projects, and build meaningful connections.
 
-Preview [Xchangify]([https://www.linkedin.com/in/jayesh-karma/](https://res.cloudinary.com/ddqzbu99e/image/upload/v1743348366/Projects/Xchangify_Image_zuw8iz.png)).
+Preview [Xchangify](https://res.cloudinary.com/ddqzbu99e/image/upload/v1743348366/Projects/Xchangify_Image_zuw8iz.png)
 
 ## 🎯 Features
 - 🔄 **Skill Exchange:** Users can offer their expertise and request skills from others.
